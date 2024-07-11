@@ -7,6 +7,7 @@ body {
     line-height: 1 6rem;
     background-color: white;
     color: white;
+    scroll-behavior: smooth;
 }
 
 .navbar-header {
@@ -92,7 +93,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/2c8abd48705042e4a6eb1c87b01b3337.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/2c8abd48705042e4a6eb1c87b01b3337.jpg);
     background-size: cover;
 }
 
@@ -330,15 +331,26 @@ input {
     margin-left: 700px;
 }
 
-.links ul li a {
-    position: relative;
+.navbar-dons ul {
+    list-style-type: none;
     justify-content: center;
     align-items: center;
     display: flex;
-    text-decoration: none;
-
+    position: relative;
+    /* padding: -5px;
+    margin: 20px; */
+    /* text-decoration: none;
+    height: 0px;
+    margin-left: 120px; */
+    /* font-size: 14px; */
+    /* color: aqua; */
 }
 
 p {
     color: black;
+}
+
+.ligne {
+    margin-left: 700px;
+    color: #fb911f;
 }

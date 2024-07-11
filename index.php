@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,13 +18,13 @@
                     </div>
                     <div class="navbar-brand">
                         <ul>
-                            <li><a href="accueil">accueil</a></li>
-                            <li><a href="plateforme de mise en relation">plateforme de mise en relation</a></li>
-                            <li><a href="systeme de gestion de dons">systeme de gestion de dons</a></li>
-                            <li><a href="suivi des beneficiaires">suivi des beneficiaires</a></li>
-                            <li><a href="outils d'analyse et de reporting">outils d'analyse et de reporting</a></li>
-                            <li><a class="navbar-login" href="login">login</a></li>
-                            <li><a class="navbar-sign-up" href="sign-up">sign-up</a><li>
+                            <li><a href="accueil.php">accueil</a></li>
+                            <li><a href="plateforme de mise en relation.php">plateforme de mise en relation</a></li>
+                            <li><a href="gestion de dons.php">systeme de gestion de dons</a></li>
+                            <li><a href="suivi des beneficiaires.php">suivi des beneficiaires</a></li>
+                            <li><a href="outils d'analyse et de reporting.php">outils d'analyse et de reporting</a></li>
+                            <li><a class="navbar-login" href="login.php">login</a></li>
+                            <li><a class="navbar-sign-up" href="sign up.php">sign-up</a><li>
                         </ul>
                     </div>
                     <section class="bannier" id="bannier">

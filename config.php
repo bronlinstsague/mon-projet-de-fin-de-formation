@@ -3,7 +3,7 @@
   $dbname="sauvetage et distribution alimantaire";
   $dbuser="root";
   $dbpass="";
-  $dbconn= mysql_connect($dbhost,$dbuser,$dbpass);
+  $dbconn= mysql_connect($dbhost,$dbname,$dbuser,$dbpass);
 
    if(!$conn) {
     die('could not connect:'.mysql_erro());

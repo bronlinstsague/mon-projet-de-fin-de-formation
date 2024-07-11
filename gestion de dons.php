@@ -9,7 +9,7 @@
 <body>
   <header>
     <h1 class="dons">Gestion des dons</h1>
-    <nav class="links">
+    <nav class="navbar-dons">
       <ul>
         <li><a href="#">Accueil</a></li>
         <li><a href="#">Faire un don</a></li>
@@ -20,7 +20,7 @@
   </header>
   <active>
           <div class="accueil">
-             <h1>accueil</h1>
+             <h1 class="ligne">accueil</h1>
              <h3>c'est quoi le dons</h3>
              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda laboriosam culpa animi molestias sequi excepturi architecto, natus, rerum consectetur, itaque consequuntur commodi? Possimus aliquam numquam recusandae incidunt vitae soluta.</p>
              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit libero optio dicta sint, deserunt fugiat. Suscipit nam beatae enim officia nihil sequi natus quo praesentium minima itaque! Architecto, laudantium ullam.</p>
