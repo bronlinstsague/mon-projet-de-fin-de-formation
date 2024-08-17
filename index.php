@@ -51,15 +51,15 @@
                         </div>
                         <h2 class="titre-texte">avantage et l'historique de la distribution. <br><span>explication du systeme proprement dit</span></h2>
                         <div class="row1">
+                            <div class="col53">
+                               <div>
+                                  <img src="images/1d5798c5d9483e873441cdf060005269.jpg" alt="image2">
+                               </div>
+                            </div>
                             <div class="col52">
                                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit explicabo reiciendis expedita pariatur inventore! Commodi repudiandae perspiciatis sint fugit ullam quod ratione, voluptas odit, sunt magni possimus, doloremque dolorum eaque!</p>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse quo perspiciatis suscipit assumenda id unde veritatis! Excepturi, laudantium explicabo ipsam delectus unde rem inventore sequi autem nesciunt dicta. Dignissimos, facere?</p>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quam, quisquam accusantium animi ut ad fugit autem id accusamus repudiandae exercitationem eveniet tempora, cupiditate impedit incidunt laudantium tempore veniam et.</p>
-                           </div>
-                           <div class="col53">
-                               <div>
-                                  <img src="images/1d5798c5d9483e873441cdf060005269.jpg" alt="image2">
-                               </div>
                            </div>
                         </div>
                         <h2 class="titre-texte">avantage et l'historique de la distribution. <br><span>explication du systeme proprement dit</span></h2>
@@ -91,10 +91,79 @@
                                 <img class="image2" src="images/a1fc44587e6b82490b95d4836b610b30.jpg" alt="image5">
                                 <img class="image3" src="images/f4a9ee7e35613613a8c22609845d3058.jpg" alt="image6">
                             </div>
+                            
+        <footer>
+            <div class="container-footer-1">
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="widget">
+                            <h5 class="widgetheading">Our Contact</h5>
+                            <address>
+                                <strong>Your School Name</strong><br>
+                                centre de fomation localhost academy
+                            </address>
+                          <div class="test">
+                            <p>
+                                <i class="icon-phone"></i> (123) 456-789 - 1255-12584 <br>
+                                <i class="icon-envelope-alt"></i> tbronlins@gmail.com
+                            </p>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="widget">
+                            <h5 class="widgetheading">Quick Links</h5>
+                            <ul class="link-list">
+                                <li><a href="#">Latest Events</a></li>
+                                <li><a href="#">Terms and conditions</a></li>
+                                <li><a href="#">Privacy policy</a></li>
+                                <li><a href="#">Career</a></li>
+                                <li><a href="#">Contact us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="widget">
+                            <h5 class="widgetheading">Latest posts</h5>
+                            <ul class="link-list">
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
+                                <li><a href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
+                                <li><a href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="widget">
+                            <h5 class="widgetheading">Recent News</h5>
+                            <ul class="link-list">
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
+                                <li><a href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
+                                <li><a href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="sub-footer">
+                <div class="container-footer-2">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="copyright">
+                                <p>
+                                    <span>&copy; trainer book by monsieur </span><a href="brolins"
+                                        target="_blank">borista</a>
+                                </p>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+            </div>
+        </footer>
                         </div>
                     </section>
-            </div>     
-           
+            </div> 
         </div>
+
 </body>
 </html> 

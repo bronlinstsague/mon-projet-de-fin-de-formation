@@ -141,6 +141,24 @@ span {
     margin-left: 100px;
 }
 
+.row1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 1500px;
+    margin-left: 100px;
+}
+
+.row2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 1500px;
+    margin-left: 100px;
+}
+
 .titre-texte {
     font-size: 2em;
     font-weight: 300px;
@@ -164,9 +182,9 @@ img {
     padding: 50px;
     width: 400px;
     height: 400px;
-    border-radius: 50px;
+    /* border-radius: 50px;
     box-shadow: 0 5px 15px rgba(247, 142, 5, 0.45),
-        0 4px 4px rgba(219, 162, 6, 0.45);
+        0 4px 4px rgba(219, 162, 6, 0.45); */
     /* background-color: #fb911f; */
 }
 
@@ -430,7 +448,7 @@ body {
 .beneficiaire {
     width: 800px;
     margin: 50px auto;
-    background: #f06d03;
+    background: #969594;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
@@ -501,4 +519,126 @@ tr:nth-child(even) {
 
 tr:hover {
     background-color: #e2e6ea;
+}
+
+footer ul.link-list li a {
+    color: #fff;
+}
+
+footer ul.link-list li a:hover {
+    color: #eee;
+}
+
+/* ===== Widgets ===== */
+
+/* --- flickr --- */
+.widget .flickr_badge {
+    width: 100%;
+}
+
+.widget .flickr_badge img {
+    margin: 0 9px 20px 0;
+}
+
+footer .widget .flickr_badge {
+    width: 100%;
+}
+
+footer .widget .flickr_badge img {
+    margin: 0 9px 20px 0;
+}
+
+.flickr_badge img {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 9px 20px 0;
+}
+
+/* --- Recent post widget --- */
+
+.recent-post {
+    margin: 20px 0 0 0;
+    padding: 0;
+    line-height: 18px;
+}
+
+.recent-post h5 a:hover {
+    text-decoration: none;
+}
+
+.recent-post .text h5 a {
+    color: #353535;
+}
+
+
+footer {
+    padding: 50px 0 0 0;
+    color: #f8f8f8;
+    background-color: #f16608;
+    height: 400px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #eee;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+    color: #fff;
+}
+
+footer address {
+    line-height: 1.6em;
+
+}
+
+footer h5 a:hover,
+footer a:hover {
+    text-decoration: none;
+}
+
+ul.social-network {
+    list-style: none;
+    margin: 0;
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0 5px;
+}
+
+#sub-footer {
+    text-shadow: none;
+    color: #f5f5f5;
+    padding: 0;
+    padding-top: 30px;
+    margin: 20px 0 0 0;
+}
+
+#sub-footer p {
+    margin: 0;
+    padding: 0;
+}
+
+#sub-footer span {
+    color: #f5f5f5;
+}
+
+.copyright {
+    text-align: left;
+    font-size: 12px;
+    margin-right: 1000px;
+}
+
+#sub-footer ul.social-network {
+    float: right;
 }
